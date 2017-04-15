@@ -1,0 +1,22 @@
+{
+  "name": "guild-leader-sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --no-browser",
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "phaser": "^2.6.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "tern": "^0.21.0",
+    "tern-phaser": "^0.2.0"
+  }
+}
