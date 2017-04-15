@@ -1,0 +1,21 @@
+{
+  "name": "phaser-platformer",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alex Robertson"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/OMGDuke/phaser-platformer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
